@@ -1,0 +1,25 @@
+header{
+	background-color: black;
+}
+
+body{
+	background-color:lightgrey;
+}
+
+.one,.two,.three,.four,.five,.six,.seven,.eight{
+	display: inline;
+	padding: 12px;
+	padding-left: 70px;
+	border-style: none;
+	color: white;
+	margin-right: -5px;
+	font-size: 20px;}
+
+
+div{
+	margin-left: 50px;
+}
+
+.one{
+	margin-left: 0px;
+}

@@ -1,0 +1,141 @@
+body{
+	margin: 50px;
+	margin-top: 0px;
+}
+
+.quatre{
+	margin-left: 950px;
+	float: left;
+	margin-top: -30px;}
+
+.un{
+	margin-left: 850px;
+	float: left;
+	margin-top: -30px;}
+
+.deux{
+	margin-left: 886px;
+	float: left;
+	margin-top: -30px;}
+
+.trois{
+	margin-left: 920px;
+	float: left;
+	margin-top: -30px;}
+
+}
+
+}
+
+
+#arm{
+	margin-left: 40px;
+
+}
+
+
+
+
+
+.search{
+	padding-top: -20px;
+}
+
+header{
+	background-color: #99b53a;
+
+}
+
+.one,.two,.three,.four,.five,.six,.seven,.eight{
+	display: inline;
+	
+	font-size: 20px;
+}
+
+.one{
+	background-color: #7f961c;
+	padding: 12px;
+	padding-left: 70px;
+	border-style: none;
+	color: white;
+	margin-right: -5px;
+	
+	
+}
+	.two{
+	background-color: #da0a0b;
+   padding: 12px;
+	padding-left: 70px;
+	border-style: none;
+	color: white;
+	margin-right: -5px;
+}
+
+.three{
+	background-color: #13508f;
+   padding: 12px;
+	padding-left: 70px;
+	border-style: none;
+	color: white;
+	margin-right: -5px;
+}
+
+.four{
+	 
+	background-color: #6b3163;
+   padding: 12px;
+	padding-left: 70px;
+	border-style: none;
+	color: white;
+	margin-right: -5px;
+}
+
+.five{
+	background-color: #a95050;
+   padding: 12px;
+	padding-left: 70px;
+	border-style: none;
+	color: white;
+	margin-right: -5px;
+}
+
+.six{
+	background-color:#196781;
+   padding: 12px;
+	padding-left: 70px;
+	border-style: none;
+	color: white;
+	margin-right: -5px;
+}
+
+.seven{
+	background-color: #e73d00;
+   padding: 12px;
+	padding-left: 70px;
+	border-style: none;
+	color: white;
+	margin-right: -5px;
+}
+
+.eight{
+	background-color: #067974;
+   padding: 12px;
+	padding-left: 70px;
+	border-style: none;
+	color: white;
+	margin-right: -5px;
+}
+
+.sidebar{
+	margin-left: 945px;
+	margin-top: -600px;
+}
+
+.ken{
+	margin-left: 10px;
+}
+
+.police{
+	padding-left: 30px;
+}
+
